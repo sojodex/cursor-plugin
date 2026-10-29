@@ -1,0 +1,14 @@
+{
+  "name": "sojo",
+  "displayName": "Sojo",
+  "version": "0.1.0",
+  "description": "Make games that play inside posts on X. Create, deploy and run them from chat, then get paid.",
+  "author": {
+    "name": "Sojo",
+    "url": "https://sojo.gg"
+  },
+  "homepage": "https://sojo.gg",
+  "license": "MIT",
+  "keywords": ["games", "x", "twitter", "hosting", "payments", "ads", "mcp"],
+  "logo": "assets/logo.png"
+}
